@@ -1,0 +1,10 @@
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\bin\Release\ImageOnTop.exe.config
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\bin\Release\ImageOnTop.exe
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\bin\Release\ImageOnTop.pdb
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.Form1.resources
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.Properties.Resources.resources
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.csproj.GenerateResource.cache
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.csproj.CoreCompileInputs.cache
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.exe
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.pdb
+C:\Users\jeff_\source\repos\ImageOnTop\ImageOnTop\obj\Release\ImageOnTop.csprojAssemblyReference.cache
